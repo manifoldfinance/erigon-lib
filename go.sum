@@ -246,6 +246,8 @@ github.com/ledgerwatch/trackerslist v1.0.0 h1:6gnQu93WCTL4jPcdmc8UEmw56Cb8IFQHLG
 github.com/ledgerwatch/trackerslist v1.0.0/go.mod h1:pCC+eEw8izNcnBBiSwvIq8kKsxDLInAafSW275jqFrg=
 github.com/lispad/go-generics-tools v1.1.0 h1:mbSgcxdFVmpoyso1X/MJHXbSbSL3dD+qhRryyxk+/XY=
 github.com/lispad/go-generics-tools v1.1.0/go.mod h1:2csd1EJljo/gy5qG4khXol7ivCPptNjG5Uv2X8MgK84=
+github.com/manifoldfinance/erigon-interfaces v0.0.0-20230111113518-241345a89b31 h1:bQBfvFsbJ2wmrnGOMNbigvYjZAZUqBCWr556LxlRpe0=
+github.com/manifoldfinance/erigon-interfaces v0.0.0-20230111113518-241345a89b31/go.mod h1:ugQv1QllJzBny3cKZKxUrSnykkjkBgm27eQM6dnGAcc=
 github.com/matryer/moq v0.3.0 h1:4j0goF/XK3pMTc7fJB3fveuTJoQNdavRX/78vlK3Xb4=
 github.com/matryer/moq v0.3.0/go.mod h1:RJ75ZZZD71hejp39j4crZLsEDszGk6iH4v4YsWFKH4s=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=

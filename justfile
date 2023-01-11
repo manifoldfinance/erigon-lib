@@ -11,7 +11,7 @@ grpc:
       p2psentry/sentry.proto p2psentinel/sentinel.proto \
       remote/kv.proto remote/ethbackend.proto \
       downloader/downloader.proto execution/execution.proto \
-      txpool/txpool.proto txpool/mining.proto
+      txpool/txpool.proto txpool/mining.proto txpool/sealing.proto
     rm -rf vendor
 
 mocks:
